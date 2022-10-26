@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "name": "Web development"
+    },
+    {
+        "id": "2",
+        "name": "Programming"
+
+    },
+    {
+        "id": "3",
+        "name": "App development"
+
+    },
+    {
+        "id": "4",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "5",
+        "name": "System"
+
+    },
+    {
+        "id": "6",
+        "name": "DevOps"
+
+    },
+    {
+        "id": "7",
+        "name": "All Category"
+
+    }
+]
