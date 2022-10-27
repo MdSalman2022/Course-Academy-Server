@@ -42,7 +42,6 @@ app.get('/course/:id', (req, res) => {
     const id = req.params.id;
 
     const selectedCourse = courses.find(course => course.id == id);
-    console.log(id, selectedCourse)
     res.send(selectedCourse);
 })
 
