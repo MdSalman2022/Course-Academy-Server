@@ -13,8 +13,6 @@ app.get('/', (req, res) => {
     res.send('course-academy server is running')
 })
 
-
-
 app.get('/category-list', (req, res) => {
     res.send(categories)
 })
